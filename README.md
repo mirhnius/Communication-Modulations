@@ -14,3 +14,9 @@ This repository contains three Informative projects including, Signal Frequency-
   * #### USSB AM
   * #### LSSB AM
   * #### Mean Squre Error Analysis
+
+* ### Digital Communication Modulations/Demodulations
+  * #### Discrete Gaussian Noise 
+  * #### 2-PAM
+  * #### SNR
+  * #### Bit Error Rate
