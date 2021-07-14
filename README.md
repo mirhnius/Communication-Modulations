@@ -13,7 +13,7 @@ This repository contains three Informative projects including, Signal Frequency-
   *  DSB AM
   *  USSB AM
   *  LSSB AM
-  *  Mean Squre Error Analysis
+  *  Mean Square Error Analysis
 
 * ### Digital Communication Modulations/Demodulations
   *  Discrete Gaussian Noise 
