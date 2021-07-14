@@ -3,20 +3,20 @@
 This repository contains three Informative projects including, Signal Frequency-Domain Analysis and Analog & Digital Communication Modulations.
 
 * ### Signal Frequency-Domain Analysis
-  * #### Fourier Transform
-  * #### Power/Energy Spectrum Density 
-  * #### Signal Crosscorrelation/Autocorrelation
-  * #### Frequecnty-Domain Linear Systems
+  *  Fourier Transform
+  *  Power/Energy Spectrum Density 
+  *  Signal Crosscorrelation/Autocorrelation
+  *  Frequecnty-Domain Linear Systems
  
 * ### Analog Communication Modulations/Demodulations
-  * #### Conventional AM
-  * #### DSB AM
-  * #### USSB AM
-  * #### LSSB AM
-  * #### Mean Squre Error Analysis
+  *  Conventional AM
+  *  DSB AM
+  *  USSB AM
+  *  LSSB AM
+  *  Mean Squre Error Analysis
 
 * ### Digital Communication Modulations/Demodulations
-  * #### Discrete Gaussian Noise 
-  * #### 2-PAM
-  * #### SNR
-  * #### Bit Error Rate
+  *  Discrete Gaussian Noise 
+  *  2-PAM
+  *  SNR
+  *  Bit Error Rate
